@@ -1,0 +1,23 @@
+#background{
+    text-align: center;
+    position: relative;
+    top: 150px;
+    font-family: Tahoma;
+
+}
+
+#btnCambiar{
+    border  : 10px;
+    padding : 0 20px;
+    margin  : 0;
+    height: 30px;
+    border-radius: 20px;
+    font-size: 16px;
+}
+
+span{
+    display: block;
+    position: relative;
+    top: 50px;
+}
+
